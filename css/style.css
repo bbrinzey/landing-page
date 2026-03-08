@@ -85,3 +85,31 @@ body {
   width: 500px;
   height: 331px;
 }
+
+.image-collage-header {
+  margin: 50px 0;
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+}
+
+.image-collage {
+  display: flex;
+  gap: 50px;
+  margin-bottom: 100px;
+}
+
+.image {
+  width: 150px;
+  text-align: center;
+  color: #1f2937;
+}
+
+.image img {
+  display: block;
+  border: 3px solid #3882f6;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  width: 150px;
+  height: 150px;
+}
