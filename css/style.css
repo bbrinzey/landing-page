@@ -139,3 +139,29 @@ body {
   font-size: 24px;
   font-weight: 600;
 }
+
+.call-to-action {
+  width: 850px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 80px;
+  background: #3882f6;
+  border-radius: 5px;
+  margin: 100px;
+  color: #e5e7eb;
+}
+
+.call-to-action h1 {
+  font-size: 22px;
+}
+
+.call-to-action button {
+  border: 2px solid #e5e7eb;
+  border-radius: 5px;
+  background: #3882f6;
+  padding: 0 30px;
+  color: #e5e7eb;
+  height: 30px;
+  font-weight: 600;
+}
