@@ -29,8 +29,9 @@ body {
   margin-bottom: 100px;
 }
 
-.top-header h1 {
+.top-header p {
   font-size: 24px;
+  font-weight: 700;
   color: #f9faf8;
 }
 
@@ -151,7 +152,7 @@ body {
   color: #e5e7eb;
 }
 
-.call-to-action h1 {
+.call-to-action h2 {
   font-size: 22px;
 }
 
