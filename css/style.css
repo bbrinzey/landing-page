@@ -113,3 +113,29 @@ body {
   width: 150px;
   height: 150px;
 }
+
+.quote {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #e5e7eb;
+  height: 400px;
+}
+
+.quote p {
+  width: 800px;
+  color: #1f2937;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-weight: 300;
+}
+
+.quote-author {
+  text-align: right;
+  font-size: 24px;
+  font-weight: 600;
+}
